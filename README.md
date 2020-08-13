@@ -1,8 +1,8 @@
 # spring-rest-redis-eureka
 
-Requerements:
-JDK 9
-Maven 3.6.3
+Requerements:<br>
+JDK 9<br>
+Maven 3.6.3<br>
 Redis 6.0.6 (Port 6379)
 
 
