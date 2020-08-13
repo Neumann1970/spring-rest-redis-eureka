@@ -5,6 +5,8 @@ JDK 9
 Maven 3.6.3
 Redis 6.0.6 (Port 6379)
 
+
+
 BUILD:
 cd eureka-service/
 mvn clean package
@@ -16,6 +18,8 @@ cd two-service/
 mvn clean package
 
 
+
+
 RUN:
 cd ..
  java -jar eureka-service/target/eureka-service.jar
@@ -24,9 +28,13 @@ java -jar one-service/target/redis-service.jar
 cd ..
 java -jar two-service/target/redis-service.jar
  
+ 
+ 
 TEST: (Postman)
 Method GET
 http://localhost:2222/v1/service1/
+
+
 
 RESPONSE:
 {
