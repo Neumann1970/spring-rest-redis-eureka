@@ -7,13 +7,13 @@ Redis 6.0.6 (Port 6379)
 
 
 
-BUILD:
+BUILD:<br>
 cd eureka-service/
 mvn clean package
 <br>
 cd one-service/
 mvn clean package
-
+<br>
 cd two-service/
 mvn clean package
 
