@@ -20,13 +20,13 @@ mvn clean package
 
 
 
-RUN:
-cd ..
- java -jar eureka-service/target/eureka-service.jar
-cd ..
-java -jar one-service/target/redis-service.jar
-cd ..
-java -jar two-service/target/redis-service.jar
+RUN:<br>
+cd ..<br>
+ java -jar eureka-service/target/eureka-service.jar<br>
+cd ..<br>
+java -jar one-service/target/redis-service.jar<br>
+cd ..<br>
+java -jar two-service/target/redis-service.jar<br>
  
  
  
