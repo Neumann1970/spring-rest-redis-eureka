@@ -42,5 +42,5 @@ RESPONSE:
     
     "value": "MEUCIAYdL8nIOQzKhi3y5eeoX8zkCSY0Z5pRDW2AP6u+Ob9xAiEAltx81EB6MgHV+kIca9cWfJkkYSmikf978y/rYS4oKuU=",
     "publicKey": "MFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAE3iKVBvhnpNet8E6hu5aEKMbFNbWQNR8MA/JL5SxVxnbJuALc8oBMgBej78NPEu5a/7yzV11Ayc5bK320s4VPvA==",
-    "algorithm": "SHA256withECDSA and resul for sign correct :TRUE"
+    "algorithm": "SHA256withECDSA and result for sign correct :TRUE"
 }
