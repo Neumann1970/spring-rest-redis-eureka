@@ -30,8 +30,8 @@ java -jar two-service/target/redis-service.jar<br>
  
  
  
-TEST: (Postman)
-Method GET
+TEST: (Postman)<br>
+Method GET<br>
 http://localhost:2222/v1/service1/
 
 
